@@ -1,1 +1,1 @@
-I'm chardhm！I'm a Full-Stack web developer & Civil Engineer 👨‍💻👷‍♂️ who is passionate about music, drawing and front end.
+I'm Nahuel！I'm a Full-Stack web developer & Industrial Designer, currently a computer engineering student who is passionate about music, drawing and software.

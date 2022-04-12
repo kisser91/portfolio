@@ -1,26 +1,71 @@
 {
     "projects" : [
-  
+        
         {
-            "image" : "images/projects/techstore.png",
-            "title": "Tech Store",
-            "bodyText": "- User **registration/login** option.\n - Cart section (what is **added** to the cart is displayed).\n - Uses **Firebase** database to store products.\n - Option to **search** products.",
+            "image" : "images/projects/amazon-ui.png",
+            "title": "Amazon UI practice",
+            "bodyText": "-A UI practice using amazon as example",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/chardhm/chardhm-ecommerce-project"
+                    "href": "https://github.com/kisser91/Amazon-clone"
                 },
                 {
                     "text": "Live",
-                    "href": "https://chardhm-ecommerce-project.vercel.app/"
+                    "href": "https://amazon-clone-kisser.vercel.app/"
                 }
             ],
             "tags" : [
                 "JavaScript",
                 "ReactJS",
-                "Redux",
-                "Bootstrap",
+                "Nextjs",
+                "TailwindCSS"
+            ]
+        },
+
+        {
+            "image" : "images/projects/instagram-frontend.png",
+            "title": "Instagram Clone",
+            "bodyText": "-A full responsive instagram clone using firebase and Next js as framework",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kisser91/instagram-clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://instagram-clone-ecru-omega.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "ReactJS",
+                "Nextjs",
+                "TailwindCSS",
                 "Firebase"
+            ]
+        },
+  
+        {
+            "image" : "images/projects/pokemon-fullstack.png",
+            "title": "Pokemon",
+            "bodyText": "Fetching and processing data from the pokemon API",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kisser91/Pokemon-fullstack-project"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://vimeo.com/655744438"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Nodejs",
+                "ReactJS",
+                "Redux",
+                "PostgreSQL"
             ]
         },
         {
@@ -35,6 +80,10 @@
                 {
                     "text": "Live",
                     "href": "https://restobares-app.web.app/"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://vimeo.com/668481185"
                 }
             ],
             "tags" : [
@@ -47,24 +96,25 @@
             ]
         },
         {
-            "image" : "images/projects/videogame.png",
-            "title": "VideoGames App",
-            "bodyText": "- Web application that allows viewing, **filtering** and **searching** by different criteria of different video games called through an **API** external **(www.api.rawg.io)**.\n - Realization of **REST** Services, **ORM** with Sequalize.\n - Use pure **CSS** design.",
+            "image" : "images/projects/instagram-backend.png",
+            "title": "Instagram-like Backend",
+            "bodyText": "A complete Backend made in python with automatic documentation",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/chardhm/PI-Videogames"
+                    "href": "https://github.com/kisser91/instagram-backend-fastapi"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://fastapi-instagramlike.herokuapp.com/docs#/users/create_user_users__post"
                 }
             ],
             "tags" : [
-                "HTML 5",
-                "CSS",
-                "JavaScript",
-                "ECMAScript 6",
-                "React-Redux",
-                "NodeJS",
-                "Express",
-                "PostgreSQL"
+                "Python",
+                "FastAPI",
+                "PostgreSQL",
+                "SQLAlchemy",
+                "Enviroments"
             ]
         }
         
