@@ -1,14 +1,13 @@
 {
     "experiences": [
         {
-            "title": "Tech Store",
-            "subtitle": "(e-commerce)",
+            "title": "Instagram FrontEnd",
+            "subtitle": "Nextjs Project",
             "workType": "Academic Project",
             "workDescription": [
-                "Uses Firebase database to store products.",
-                "Made components with ReactJS and Bootstrap.",
-                "Use actions and reducers from Redux.",
-                "Components Register and Login integrated with Firebase."
+                "Uses Firebase database to store data.",
+                "Made components with ReactJS and TailwindCSS.",
+                "Login integrated with Firebase."
             ],
             "dateText": "01/2022 – 01/2022"
         },
@@ -25,11 +24,11 @@
             "dateText": "12/2021 – 01/2022"
         },
         {
-            "title": "Videogame App (SPA)",
+            "title": "Pokemon App (SPA)",
             "subtitle": "Soy HENRY",
             "workType": "Academic Project",
             "workDescription": [
-                "Web application that allows viewing, filtering and searching by different criteria of different video games called through an API external (www.api.rawg.io).",
+                "Web application that allows viewing, filtering and searching by different criteria of different pokemons called through an  external API .",
                 "Realization of REST Services, ORM with Sequalize and pure CSS design.",
                 "Technologies used: HTML 5, CSS, JavaScript, ECMAScript, React-Redux, NodeJS, Express, PostgreSQL."
             ],
